@@ -1,0 +1,15 @@
+C:\Users\Макс\Desktop\Github\github\Task01\bin\Debug\net6.0\Task01.exe
+C:\Users\Макс\Desktop\Github\github\Task01\bin\Debug\net6.0\Task01.deps.json
+C:\Users\Макс\Desktop\Github\github\Task01\bin\Debug\net6.0\Task01.runtimeconfig.json
+C:\Users\Макс\Desktop\Github\github\Task01\bin\Debug\net6.0\Task01.dll
+C:\Users\Макс\Desktop\Github\github\Task01\bin\Debug\net6.0\ref\Task01.dll
+C:\Users\Макс\Desktop\Github\github\Task01\bin\Debug\net6.0\Task01.pdb
+C:\Users\Макс\Desktop\Github\github\Task01\obj\Debug\net6.0\Task01.csproj.AssemblyReference.cache
+C:\Users\Макс\Desktop\Github\github\Task01\obj\Debug\net6.0\Task01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Макс\Desktop\Github\github\Task01\obj\Debug\net6.0\Task01.AssemblyInfoInputs.cache
+C:\Users\Макс\Desktop\Github\github\Task01\obj\Debug\net6.0\Task01.AssemblyInfo.cs
+C:\Users\Макс\Desktop\Github\github\Task01\obj\Debug\net6.0\Task01.csproj.CoreCompileInputs.cache
+C:\Users\Макс\Desktop\Github\github\Task01\obj\Debug\net6.0\Task01.dll
+C:\Users\Макс\Desktop\Github\github\Task01\obj\Debug\net6.0\ref\Task01.dll
+C:\Users\Макс\Desktop\Github\github\Task01\obj\Debug\net6.0\Task01.pdb
+C:\Users\Макс\Desktop\Github\github\Task01\obj\Debug\net6.0\Task01.genruntimeconfig.cache
